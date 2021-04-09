@@ -2,3 +2,4 @@ ipympl
 matplotlib
 numpy
 scipy
+voila
